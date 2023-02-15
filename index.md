@@ -22,7 +22,7 @@ Space Game!!
 
 ### Screen Saver
 
-OOP Screen Saver
+Screen Saver made in processing:
 
 ![Running ScreenSaver](https://github.com/Luca-Skyline/programming1portfolio/blob/main/images/screesaver.png)
 
