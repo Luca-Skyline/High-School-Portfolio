@@ -4,7 +4,11 @@
 
 ### Pig Latin Translator
 
+Software that will translate English into Pig Latin. Can do one word, like a name, or entire sentences and paragraphs, as shown below. Uses more advanced, in-depth forms of Pig Latin, including the transfer of all starting consonants to the end of the word (not just the first letter), adding "WAY" if the word starts with a vowel, accounting for spaces, and removing puncuation that isn't important to Pig Latin (the idea behind Pig Latin focusses on the pronunciation of words, not their written form).
+
 ![Running Pig Latin Software](https://github.com/Luca-Skyline/programming1portfolio/blob/main/images/piglatin.png)
+
+[Pig Latin Source Code](https://github.com/Luca-Skyline/programming1portfolio/blob/main/src/PigLatin/main.cpp)
 
 
 ## Processing Projects
