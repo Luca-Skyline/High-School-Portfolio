@@ -1,9 +1,10 @@
 # 2022-23 In-Class Projects
 
-##C++ Projects
+## C++ Projects
 
 ### Pig Latin Translator
 
+![Running Pig Latin Software](https://github.com/Luca-Skyline/programming1portfolio/blob/main/images/piglatin.png)
 
 
 ## Processing Projects
