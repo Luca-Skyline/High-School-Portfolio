@@ -4,7 +4,9 @@
 
 Click here to play [DUNGEON DASH!](https://calvinaawebb.github.io/dungeon-dash-game/)
 
-Created for the TSA State Video Competetion, me and 3 other Sophomores created "Dungeon Dash", a puzzle party game. It allows two players to race, mostly blinded, through a maze of traps and puzzles in an attempt to reach the center before the other player. The dungeon has several levels and items you can use to your advantage - as well as puzzles that are not only tricky to solve but tricky to figure out how to solve. Consider the fact that the dungeon itself is really a series of mazes, and it becomes clear why Dungeon Dash it the ultimate puzzle within a puzzle within a puzzle game.
+Created for the TSA State Video Competetion, me and 3 other sophomores created "Dungeon Dash", a puzzle party game. It allows two players to race, mostly blinded, through a maze of traps and puzzles in an attempt to reach the center before the other player. The dungeon has several levels and items you can use to your advantage - as well as puzzles that are not only tricky to solve but tricky to figure out how to solve. Consider the fact that the dungeon itself is really a series of mazes, and it becomes clear why Dungeon Dash it the ultimate puzzle within a puzzle within a puzzle game.
+
+I was primary code developer and in charge of audio assests on this project. Thanks, [Calvin Webb](https://github.com/calvinaawebb)(Project Manager), [Micah Tien](https://github.com/MisterNo0ne)(Developer), and [Jeffery Zou](https://github.com/HelloIverson)(Artist, Developer) for your collaboration on this project.
 
 Our TSA team placed 3rd in the state for this project.
 
