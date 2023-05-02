@@ -4,11 +4,11 @@
 
 Click here to play [DUNGEON DASH!](https://calvinaawebb.github.io/dungeon-dash-game/)
 
-Created for the TSA State Video Competetion, me and 3 other sophomores created "Dungeon Dash", a puzzle party game. It allows two players to race, mostly blinded, through a maze of traps and puzzles in an attempt to reach the center before the other player. The dungeon has several levels and items you can use to your advantage - as well as puzzles that are not only tricky to solve but tricky to figure out how to solve. Consider the fact that the dungeon itself is really a series of mazes, and it becomes clear why Dungeon Dash it the ultimate puzzle within a puzzle within a puzzle game.
+Created for the TSA State Video Competetion, 3 other sophomores and I created "Dungeon Dash", a puzzle party game. It allows two players to race, mostly blinded, through a maze of traps and puzzles in an attempt to reach the center before the other player. The dungeon has several levels and items you can use to your advantage - as well as puzzles that are not only tricky to solve but tricky to figure out how to solve. Consider the fact that the dungeon itself is really a series of mazes, and it becomes clear why Dungeon Dash it the ultimate puzzle within a puzzle within a puzzle game.
 
-I was primary code developer and in charge of audio assests on this project. Thanks, [Calvin Webb](https://github.com/calvinaawebb)(Project Manager), [Micah Tien](https://github.com/MisterNo0ne)(Developer), and [Jeffery Zou](https://github.com/HelloIverson)(Artist, Developer) for your collaboration on this project.
+I was primary code developer and in charge of audio assests on this project. Thanks, [Calvin Webb](https://github.com/calvinaawebb) (Project Manager), [Micah Tien](https://github.com/MisterNo0ne) (Developer), and [Jeffery Zou](https://github.com/HelloIverson) (Graphics Artist, Developer) for your collaboration on this project.
 
-Our TSA team placed 3rd in the state for this project.
+Our TSA team placed 3rd in the state for this project, qualifying for nationals.
 
 ![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/ddtutorial.png)
 
@@ -21,7 +21,13 @@ Our TSA team placed 3rd in the state for this project.
 [Github Dev Repo](https://github.com/calvinaawebb/dungeon-dash-game)
 
 
-# 2022-23 In-Class Projects
+### SoundVision (Utah Engineering Design Challenge / NEDC)
+
+This project, done as an extension of the MESA club, uses an Arduino MEGA ADK and a lot a bit of C++ (via Arduino IDE) to perform a Fast Fourier Transform and analyze music. This project was done with Micah Tien and Jeffery Zou like the project above and I once again am very grateful for their help. Individually, I wrote the code and did the wiring for this project.
+
+![Poster]([images](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/SoundVision Poster.png)
+
+# 2022-23 Programming Class Projects
 
 ## C++ Projects
 
@@ -61,5 +67,3 @@ Screen Saver made in processing:
 ![Running ScreenSaver](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/screesaver.png)
 
 [Calculator Source Code](https://github.com/Luca-Skyline/programming1portfolio/tree/main/src/screensaver)
-
-
