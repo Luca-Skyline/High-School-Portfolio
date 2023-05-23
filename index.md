@@ -5,7 +5,15 @@
 
 # 2022-23 Programming Class Group Project (STAR CHESS)
 
+Click here to play [STAR CHESS!](https://replit.com/@the-do-nothings/Star-Chess?v=1)
 
+I was the primary programmer/developer on this project. I did the main logic for the chess moves, check/checkmate logic, and rudimentary AI engine. For more info, check out the group's [dev repo](https://github.com/Luca-Skyline/SoundVision-Code). I divied out some of the smaller programming tasks to the awesome [Spencer Wood](https://github.com/swood136). Check out the GitHub for more info on other group members.
+
+![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/chessImages/title.png)
+
+![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/chessImages/gamePlay.png)
+
+![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/chessImages/tutorial.png)
 
 # 2022-23 Extracurricular Projects
 
@@ -37,6 +45,8 @@ This project, done as an extension of the MESA club, uses an Arduino MEGA ADK an
 Our NEDC team placed 2nd in the state for this project.
 
 ![Poster](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/soundvision.png)
+
+[FFT Code](https://github.com/Luca-Skyline/SoundVision-Code)
 
 # 2022-23 Programming Class Projects
 
