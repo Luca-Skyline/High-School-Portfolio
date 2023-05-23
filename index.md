@@ -25,6 +25,8 @@ Our TSA team placed 3rd in the state for this project, qualifying for nationals.
 
 This project, done as an extension of the MESA club, uses an Arduino MEGA ADK and a lot a bit of C++ (via Arduino IDE) to perform a Fast Fourier Transform and analyze music. This project was done with Micah Tien and Jeffery Zou like the project above and I once again am very grateful for their help. Individually, I wrote the code and did the wiring for this project.
 
+Our NEDC team placed 2nd in the state for this project.
+
 ![Poster](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/soundvision.png)
 
 # 2022-23 Programming Class Projects
