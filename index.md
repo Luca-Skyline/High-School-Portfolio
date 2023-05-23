@@ -1,3 +1,12 @@
+
+# Luca DalCanto Skyline Programming Portfolio
+
+[Click Here](https://github.com/Luca-Skyline) to see my profile and contact info.
+
+# 2022-23 Programming Class Group Project (STAR CHESS)
+
+
+
 # 2022-23 Extracurricular Projects
 
 ### Dungeon Dash (Utah TSA Competetion)
