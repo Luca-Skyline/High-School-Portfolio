@@ -59,16 +59,16 @@ Split Screen built in to reduce user clicks with immeadiate results. Keyboard us
 
 ![Running Calculator](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/calculator.png)
 
-[Calculator Source Code](https://github.com/Luca-Skyline/programming1portfolio/tree/main/src/calc)
+[Calculator Source Code](https://github.com/Luca-Skyline/programming1portfolio/tree/main/src/Calculator)
 
 ### Space Game
 
-Avoid the rocks...
+Avoid the rocks... (made with Processing 4)
 
 ![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/asteriods.png)
 ![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/gamestart.png)
 
-[Calculator Source Code](https://github.com/Luca-Skyline/programming1portfolio/tree/main/src/spacegame)
+[Calculator Source Code](https://github.com/Luca-Skyline/programming1portfolio/tree/main/src/SpaceGame)
 
 
 ## C++ Projects
