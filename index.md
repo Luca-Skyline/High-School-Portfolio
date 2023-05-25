@@ -31,7 +31,7 @@ Our TSA team placed 3rd in the state for this project, qualifying for nationals.
 
 ![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/ddgameplay.png)
 
-![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/ddpuzzle.png)
+<img src="https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/ddpuzzle.png" alt="Running Game" width="600"/>
 
 [Web Hosted Game (Using Github Pages)](https://calvinaawebb.github.io/dungeon-dash-game/)
 
