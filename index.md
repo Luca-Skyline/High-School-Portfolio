@@ -9,7 +9,7 @@ Click here to play [STAR CHESS!](https://replit.com/@the-do-nothings/Star-Chess?
 
 I was the primary programmer/developer on this project. I did the main logic for the chess moves, check/checkmate logic, and rudimentary AI engine. For more info, check out the group's [dev repo](https://github.com/Luca-Skyline/SoundVision-Code). I divied out some of the smaller programming tasks to the awesome [Spencer Wood](https://github.com/swood136). Check out the GitHub for more info on my other awesome group members.
 
-<img src="[drawing.jpg](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/chessImages/title.png)" alt="Running Game" width="200"/>
+<img src="https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/chessImages/title.png" alt="Running Game" width="200"/>
 
 ![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/chessImages/gameplay.png)
 
