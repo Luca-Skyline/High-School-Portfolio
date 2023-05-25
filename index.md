@@ -3,6 +3,8 @@
 
 [Click Here](https://github.com/Luca-Skyline) to see my profile and contact info.
 
+Thanks to Mr. Kapptie for providing the opportunity that allowed me to certify in all 4 offered programming languages! (Java, C#, C++, Python)
+
 # 2022-23 Programming Class Group Project (STAR CHESS)
 
 Click here to play [STAR CHESS!](https://replit.com/@the-do-nothings/Star-Chess?v=1)
