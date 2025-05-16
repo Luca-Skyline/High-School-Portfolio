@@ -21,6 +21,7 @@
   - [Dungeon Dash Video Game](#dungeon)
   - [SoundVision NEDC Entry](#soundvision)
   - [Class Asignments](#sophomoreclass)
+- [Acknowledgements](#acknowledgements)
 
 <a id = "awards"></a>
 # Awards and Experiences
@@ -120,7 +121,7 @@ With this application, users can keep track of the Magic cards in their collecti
 
 Click here to play [STAR CHESS!](https://replit.com/@the-do-nothings/Star-Chess?v=1)
 
-I was the primary programmer/developer on this project and head of the programming team. I did the main logic for the chess moves, check/checkmate logic, and rudimentary AI engine. For more info, check out the group's [dev repo](https://github.com/Luca-Skyline/SoundVision-Code). I divied out some of the other programming tasks to the awesome [Spencer Wood](https://github.com/swood136). Check out the GitHub for more info on my other awesome group members who did a great job with ASCII art and UI.
+I was the primary programmer/developer on this project and head of the programming team. I did the main logic for the chess moves, check/checkmate logic, and rudimentary AI engine. For more info, check out the group's [dev repo](https://github.com/RobertBu1/Group_StarChess). I divied out some of the other programming tasks to the awesome [Spencer Wood](https://github.com/swood136). Check out the GitHub for more info on my other awesome group members who did a great job with ASCII art and UI.
 
 <img src="https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/chessImages/title.png" alt="Running Game" width="600"/>
 
@@ -186,5 +187,9 @@ Avoid the rocks... (made with Processing 4)
 Software that will translate English into Pig Latin. Can do one word, like a name, or entire sentences and paragraphs, as shown below. Uses more advanced, in-depth forms of Pig Latin, including the transfer of all starting consonants to the end of the word (not just the first letter), adding "WAY" if the word starts with a vowel, accounting for spaces, and removing puncuation that isn't important to Pig Latin (the idea behind Pig Latin focusses on the pronunciation of words, not their written form).
 
 ![Running Pig Latin Software](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/piglatin.png)
-
 [Pig Latin Source Code](https://github.com/Luca-Skyline/programming1portfolio/blob/main/src/PigLatin/main.cpp)
+
+
+<a id="acknowledgements"></a>
+# Acknowledgements
+My computer journey through high school has been long and productive only because of the support and help of my mentors, peers, and community. Thank you first and foremost to Mr. Kenneth Kapptie, who has been there to orient me in the world of programming, robotics, TSA, and so much more throughout high school. Thank you as well to all of the other students at Skyline I have had the honor to collaborate with, including Micah, Jenna, Jeffery, Zack, Calvin, Maggie, Spencer, Robert, and so many more. Thank you to all of my other teachers and school counselor Ms. White, as well as unpaid mentors like Mr. Colby Wilson.
