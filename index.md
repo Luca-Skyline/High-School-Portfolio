@@ -6,21 +6,21 @@
 ## Table of Contents
 - [Computer-Related Awards and Experiences](#awards)
 - [2024-2025](#2425)
--   [UpBeat Group Project](#upbeat)
--   [Conway's Game of Life Individual Project](#conway)
--   [IB Research Projects](#ib)
--     Extended Essay: Fourier Transformation Optimization
--     Physics: Propeller Simulation
--     Math Analysis: Predator-Prey Simulation
--   [Class Assignments](#seniorclass)
+  - [UpBeat Group Project](#upbeat)
+  - [Conway's Game of Life Individual Project](#conway)
+  - [IB Research Projects](#ib)
+    - Extended Essay: Fourier Transformation Optimization
+    - Physics: Propeller Simulation
+    - Math Analysis: Predator-Prey Simulation
+  - [Class Assignments](#seniorclass)
 - [2023-2024](#2324)
--   [Check4Mate Chess Vision Project](#check4mate)
--   [Robotics Class Notebook](#robotics)
+  - [Check4Mate Chess Vision Project](#check4mate)
+  - [Robotics Class Notebook](#robotics)
 - [2022-2023](#2223)
--   [Star Chess Group Project](#starchess)
--   [Dungeon Dash Video Game](#dungeon)
--   [SoundVision NEDC Entry](#soundvision)
--   [Class Asignments](#sophomoreclass)
+  - [Star Chess Group Project](#starchess)
+  - [Dungeon Dash Video Game](#dungeon)
+  - [SoundVision NEDC Entry](#soundvision)
+  - [Class Asignments](#sophomoreclass)
 
 <a id = "awards"></a>
 # Awards and Experiences
