@@ -28,20 +28,20 @@
 - Skyline High CTE Presidential Scholar
 - National Presidential Scholar Semifinalist (1 of 600 in the US) for academics.
 - Utah TSA (Technology Student Association) Awards
--   Software Development: 1st (2024)
--   Coding: 2nd (2024)
--   Technology Bowl: 2nd (2024)
--   Digital Music Production: 1st (2025)
--   Video Game Design: 3rd (2023)
+  - Software Development: 1st (2024)
+  - Coding: 2nd (2024)
+  - Technology Bowl: 2nd (2024)
+  - Digital Music Production: 1st (2025)
+  - Video Game Design: 3rd (2023)
 - MESA Utah NEDC (National Engineering Design Competition): 2nd (2023)
 - Utah CTE Certifications
--   Advanced (Year 2) Programming
--   Python (Programming 2)
--   Java (Programming 2)
--   C++ (Programming 2)
--   C# (Programming 2)
--   Robotics 1
--   Programming 1
+  - Advanced (Year 2) Programming
+  - Python (Programming 2)
+  - Java (Programming 2)
+  - C++ (Programming 2)
+  - C# (Programming 2)
+  -   Robotics 1
+  -   Programming 1
 
 <a id = "2425"></a>
 # 2024-2025 Projects
