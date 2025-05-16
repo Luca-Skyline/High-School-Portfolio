@@ -1,9 +1,10 @@
 
-# Luca DalCanto Skyline Programming Portfolio
+# Luca DalCanto Skyline Programming Portfolio 2021-2025
 
 [Click Here](https://github.com/Luca-Skyline) to see my profile and contact info.
 
-Thanks to Mr. Kapptie for providing the opportunity that allowed me to certify in all 4 offered programming languages! (Java, C#, C++, Python)
+## Table of Contents
+- [Space Game](#space)
 
 # 2022-23 Programming Class Group Project (STAR CHESS)
 
@@ -63,6 +64,7 @@ Split Screen built in to reduce user clicks with immeadiate results. Keyboard us
 
 [Calculator Source Code](https://github.com/Luca-Skyline/programming1portfolio/tree/main/src/Calculator)
 
+<a id="space"></a>
 ### Space Game
 
 Avoid the rocks... (made with Processing 4)
