@@ -121,6 +121,8 @@ My largest computer science project in high school, this won me first place in t
 ## Robotics Development Notebook
 This was the development notebook for my group in my Robotics 1 class. This was a pretty low-scale project for which I was the team lead and acted as the bridge between software and hardware.
 
+<img src="https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/raw/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/side_chassis.JPG" alt="Robot Being Built" width="400">
+
 [Github Documentation Repo](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat)
 
 <a id = "2223"></a>
