@@ -48,23 +48,59 @@
 
 <a id = "upbeat"></a>
 ## 2024-25 Programming Class Group Project (UpBEAT)
+This is a project done by the "RIBIT" (RISE International Baccleaurate Information Tecnology) team in my Year 2 programming class. The software generates songs procedurally using math and a little bit of music theory knowledge. The math for generating the songs is created from the ground up; libraries are only used to export the data as audio or MIDI to your device. Windows preferred. I was the team lead and primary backend programmer on this project.
+
+[Github Development Repo](https://github.com/Luca-Skyline/Up-Beat)
 
 <a id = "conway"></a>
 ## Conway's Game of Life Individual Class Project
+This is an individual project I created for Year 2 programming. Following user parameters, it generates random permutations/mutations of a seed in Conway's Game of Life. The objective is to find small seeds with very long lifetimes. It implements generations, where each generation is a slight mutation on the last, and only the fittest seed in each generation survives to the next.
+
+[Github Development Repo](https://github.com/Luca-Skyline/GOLSeedEvo)
 
 <a id = "id"></a>
 ## IB Research Projects
 In preparing my research projects for the IB diploma, I wrote several computer programs from which to gather and analyze empirical data.
 
 ### IB Extended Essay: Fourier Transformation Optimization
+This code was used to collect and interpret the data for my Extended Essay research paper. It examines the Fast Fourier Transform (FFT) and proposes a geometric alternative to compare it against in order to find a threshold of noise where the FFT is preferred. I coded it in python for ease of data analysis.
+
+[Research Paper]()
+[Undocumented Code](https://github.com/Luca-Skyline/Fourier-Research-Paper)
 
 ### IB Physics: Propeller Simulation
+This code was used in my IB physics internal assessment. I created it to simulate a propeller spinning under the drag of varying air densities in order to determine if air density has an impact on the optimal pitch of a propeller blade. So I could include a graphical component, I learned and utilized Rust for this project. Notice: as this was a physics project, not a programming project, I did employ generative AI as an assitive and educational tool. However, the underlying code logic and approach are my own.
+
+[Research Paper]()
+[Undocumented Code](https://github.com/Luca-Skyline/FluidDensityPropellerSimulator)
 
 ### IB Math Analysis: Predator and Prey Simulation
+In this project, I created a basic simulation of the interaction between predators and prey in an ecosystem to see how both populations fluctuated with time. This data was used in my IB math internal assessment as several mathematical models were mapped to it. This code is simple and created in Processing so as to include a graphic component for qualitative analysis.
+
+[Research Paper]()
+[Undocumented Code](https://github.com/Luca-Skyline/PredatorPreySim)
 
 <a id = "seniorclass"></a>
 ## 2022-23 Programming Class Projects
-(see other portfolio)
+### Complex Applications 4: Pandora's Box (Encrypted Journal)
+This application can read and write from a file called "my_journal.txt". Before you can access the contents of the file, you must enter the "magic number" which acts as the key to encrypting and decrypting the text. For the exiting contents of "my_journal.txt" I have used a magic number of 42.
+
+When you add a note to the journal, it gets encrypted before being written to the text file. The encryption is just:
+- The characters of your input string get converted to their Unicode integer value
+- The magic number is added to the Unicode integer value
+- The new integers are converted back into characters
+- Those characters are written to the file.
+
+The inverse process takes place when reading from the file. Only when the "magic numbers" of both input and output are the same can you recover the original message.
+
+<img src="https://github.com/Luca-Skyline/B8_Adv_Programming_Portfolio/blob/42a64495add7aa9be40888d907003683fa21b0d6/images/Pandora%20Intro.png" width = 400>
+<img src="https://github.com/Luca-Skyline/B8_Adv_Programming_Portfolio/blob/42a64495add7aa9be40888d907003683fa21b0d6/images/Pandora%20Home.png" width = 250>
+
+### Complex Applications 3: Magic the Gathering Database
+With this application, users can keep track of the Magic cards in their collection. They can create cards with a name, quantity, multiple card types, rarity, and legendaryness. New cards are appended to an Arraylist. They can then view, edit, and delete cards, as well as filter and view their collection based on card type. This last feature is recursive so you can filter down to specific combinations such as "artifact creatures".
+
+<img src="https://github.com/Luca-Skyline/B8_Adv_Programming_Portfolio/blob/3146ce35242ca16c83ee130689297760dfc3f6a9/images/MTGD_Home.png" width=350>
+<img src="https://github.com/Luca-Skyline/B8_Adv_Programming_Portfolio/blob/7d3fd292bb0870b0f5ba0e2bd48a7bbb13213fc2/images/MTGD_New_Card.png" width=350>
 
 <a id = "2324"></a>
 # 2023-2024 Projects
