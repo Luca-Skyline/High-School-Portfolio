@@ -35,6 +35,7 @@
   - Digital Music Production: 1st (2025)
   - Video Game Design: 3rd (2023)
 - MESA Utah NEDC (National Engineering Design Competition): 2nd (2023)
+- University of Utah Engineering Research Intern (Summer, 2024)
 - Utah CTE Certifications
   - Advanced (Year 2) Programming
   - Python (Programming 2)
@@ -108,10 +109,19 @@ With this application, users can keep track of the Magic cards in their collecti
 
 <a id = "check4mate"></a>
 ## Check4Mate
+My largest computer science project in high school, this won me first place in the Utah TSA Software Development competition. On a large scale, this project was my effort to develop a web application for a mobile device that allows a chess player or chess coach to seemlessly integrate the "over-the-board" chess experience with the ever-growing world of digital chess. It's primarily a "computer vision" project, but it consists of three major sub-projects:
+- The training of a neural network to recognize chess pieces from an image. This portion involved heavy usage of data science and was done in Jupyter Notebook using Google Colab servers.
+- The usage of that trained model, as well as other libraries, complicated math, and my own ingenuity to figure out the position of a chess board based on an image.
+- An app that incoporates the code from the previous bullet item into a secure website frontend environment which uses even more libaries to turn that position into useful information for the user (such as a best move or FEN notation).
+
+[Github Development Repo](https://github.com/Luca-Skyline/check4mate)
+
 
 <a id = "robotics"></a>
 ## Robotics Development Notebook
+This was the development notebook for my group in my Robotics 1 class. This was a pretty low-scale project for which I was the team lead and acted as the bridge between software and hardware.
 
+[Github Documentation Repo](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat)
 
 <a id = "2223"></a>
 # 2022-2023 Projects
