@@ -1,12 +1,86 @@
 
-# Luca DalCanto Skyline Programming Portfolio 2021-2025
+# Luca DalCanto Skyline Programming Portfolio
 
 [Click Here](https://github.com/Luca-Skyline) to see my profile and contact info.
 
 ## Table of Contents
-- [Space Game](#space)
+- [Computer-Related Awards and Experiences](#awards)
+- [2024-2025](#2425)
+-   [UpBeat Group Project](#upbeat)
+-   [Conway's Game of Life Individual Project](#conway)
+-   [IB Research Projects](#ib)
+-     Extended Essay: Fourier Transformation Optimization
+-     Physics: Propeller Simulation
+-     Math Analysis: Predator-Prey Simulation
+-   [Class Assignments](#seniorclass)
+- [2023-2024](#2324)
+-   [Check4Mate Chess Vision Project](#check4mate)
+-   [Robotics Class Notebook](#robotics)
+- [2022-2023](#2223)
+-   [Star Chess Group Project](#starchess)
+-   [Dungeon Dash Video Game](#dungeon)
+-   [SoundVision NEDC Entry](#soundvision)
+-   [Class Asignments](#sophomoreclass)
 
-# 2022-23 Programming Class Group Project (STAR CHESS)
+<a id = "awards"></a>
+# Awards and Experiences
+- Philo T. Farsworth Governor's Award Recepient. This is an award earned through the Sterling Scholar program and granted to one student in Utah to reward innovation, creativity, and technical skills.
+- Skyline High CTE Presidential Scholar
+- National Presidential Scholar Semifinalist (1 of 600 in the US) for academics.
+- Utah TSA (Technology Student Association) Awards
+-   Software Development: 1st (2024)
+-   Coding: 2nd (2024)
+-   Technology Bowl: 2nd (2024)
+-   Digital Music Production: 1st (2025)
+-   Video Game Design: 3rd (2023)
+- MESA Utah NEDC (National Engineering Design Competition): 2nd (2023)
+- Utah CTE Certifications
+-   Advanced (Year 2) Programming
+-   Python (Programming 2)
+-   Java (Programming 2)
+-   C++ (Programming 2)
+-   C# (Programming 2)
+-   Robotics 1
+-   Programming 1
+
+<a id = "2425"></a>
+# 2024-2025 Projects
+
+<a id = "upbeat"></a>
+## 2024-25 Programming Class Group Project (UpBEAT)
+
+<a id = "conway"></a>
+## Conway's Game of Life Individual Class Project
+
+<a id = "id"></a>
+## IB Research Projects
+In preparing my research projects for the IB diploma, I wrote several computer programs from which to gather and analyze empirical data.
+
+### IB Extended Essay: Fourier Transformation Optimization
+
+### IB Physics: Propeller Simulation
+
+### IB Math Analysis: Predator and Prey Simulation
+
+<a id = "seniorclass"></a>
+## 2022-23 Programming Class Projects
+(see other portfolio)
+
+<a id = "2324"></a>
+# 2023-2024 Projects
+
+<a id = "check4mate"></a>
+## Check4Mate
+
+<a id = "robotics"></a>
+## Robotics Development Notebook
+
+
+<a id = "2223"></a>
+# 2022-2023 Projects
+
+<a id = "starchess"></a>
+## 2022-23 Programming Class Group Project (STAR CHESS)
 
 Click here to play [STAR CHESS!](https://replit.com/@the-do-nothings/Star-Chess?v=1)
 
@@ -18,9 +92,8 @@ I was the primary programmer/developer on this project and head of the programmi
 
 ![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/chessImages/tutorial.png)
 
-# 2022-23 Extracurricular Projects
-
-### Dungeon Dash (Utah TSA Competetion)
+<a id = "dungeon"></a>
+## Dungeon Dash (Utah TSA Competetion)
 
 Click here to play [DUNGEON DASH!](https://calvinaawebb.github.io/dungeon-dash-game/)
 
@@ -40,8 +113,8 @@ Our TSA team placed 3rd in the state for this project, qualifying for nationals.
 
 [Github Dev Repo](https://github.com/calvinaawebb/dungeon-dash-game)
 
-
-### SoundVision (Utah Engineering Design Challenge / NEDC)
+<a id = "soundvision"></a>
+## SoundVision (Utah Engineering Design Challenge / NEDC)
 
 This project, done as an extension of the MESA club, uses an Arduino MEGA ADK and a lot a bit of C++ (via Arduino IDE) to perform a Fast Fourier Transform and analyze music. This project was done with Micah Tien and Jeffery Zou like the project above and I once again am very grateful for their help. Individually, I wrote the code and did the wiring for this project.
 
@@ -51,9 +124,8 @@ Our NEDC team placed 2nd in the state for this project.
 
 [FFT Code](https://github.com/Luca-Skyline/SoundVision-Code)
 
-# 2022-23 Programming Class Projects
-
-## Processing Projects
+<a id="sophomoreclass"></a>
+## 2022-23 Programming Class Projects
 
 ### Calculator
 
@@ -64,7 +136,6 @@ Split Screen built in to reduce user clicks with immeadiate results. Keyboard us
 
 [Calculator Source Code](https://github.com/Luca-Skyline/programming1portfolio/tree/main/src/Calculator)
 
-<a id="space"></a>
 ### Space Game
 
 Avoid the rocks... (made with Processing 4)
@@ -73,9 +144,6 @@ Avoid the rocks... (made with Processing 4)
 ![Running Game](https://raw.githubusercontent.com/Luca-Skyline/programming1portfolio/main/images/gamestart.png)
 
 [Space Game Source Code](https://github.com/Luca-Skyline/programming1portfolio/tree/main/src/SpaceGame)
-
-
-## C++ Projects
 
 ### Pig Latin Translator
 
