@@ -62,7 +62,7 @@ This is an individual project I created for Year 2 programming. Following user p
 
 [Github Development Repo](https://github.com/Luca-Skyline/GOLSeedEvo)
 
-<a id = "id"></a>
+<a id = "ib"></a>
 ## IB Research Projects
 In preparing my research projects for the IB diploma, I wrote several computer programs from which to gather and analyze empirical data.
 
