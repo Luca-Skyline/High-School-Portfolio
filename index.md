@@ -52,6 +52,8 @@
 ## 2024-25 Programming Class Group Project (UpBEAT)
 This is a project done by the "RIBIT" (RISE International Baccleaurate Information Tecnology) team in my Year 2 programming class. The software generates songs procedurally using math and a little bit of music theory knowledge. The math for generating the songs is created from the ground up; libraries are only used to export the data as audio or MIDI to your device. Windows preferred. I was the team lead and primary backend programmer on this project.
 
+<img src="https://github.com/Luca-Skyline/RIBIT-REPO/raw/main/images/BlueUpBeat.png?raw=true" alt="UpBeat Logo" width="200">
+
 [Github Development Repo](https://github.com/Luca-Skyline/Up-Beat)
 
 <a id = "conway"></a>
@@ -68,18 +70,21 @@ In preparing my research projects for the IB diploma, I wrote several computer p
 This code was used to collect and interpret the data for my Extended Essay research paper. It examines the Fast Fourier Transform (FFT) and proposes a geometric alternative to compare it against in order to find a threshold of noise where the FFT is preferred. I coded it in python for ease of data analysis.
 
 [Research Paper]()
+
 [Undocumented Code](https://github.com/Luca-Skyline/Fourier-Research-Paper)
 
 ### IB Physics: Propeller Simulation
 This code was used in my IB physics internal assessment. I created it to simulate a propeller spinning under the drag of varying air densities in order to determine if air density has an impact on the optimal pitch of a propeller blade. So I could include a graphical component, I learned and utilized Rust for this project. Notice: as this was a physics project, not a programming project, I did employ generative AI as an assitive and educational tool. However, the underlying code logic and approach are my own.
 
 [Research Paper]()
+
 [Undocumented Code](https://github.com/Luca-Skyline/FluidDensityPropellerSimulator)
 
 ### IB Math Analysis: Predator and Prey Simulation
 In this project, I created a basic simulation of the interaction between predators and prey in an ecosystem to see how both populations fluctuated with time. This data was used in my IB math internal assessment as several mathematical models were mapped to it. This code is simple and created in Processing so as to include a graphic component for qualitative analysis.
 
 [Research Paper]()
+
 [Undocumented Code](https://github.com/Luca-Skyline/PredatorPreySim)
 
 <a id = "seniorclass"></a>
@@ -113,6 +118,8 @@ My largest computer science project in high school, this won me first place in t
 - The training of a neural network to recognize chess pieces from an image. This portion involved heavy usage of data science and was done in Jupyter Notebook using Google Colab servers.
 - The usage of that trained model, as well as other libraries, complicated math, and my own ingenuity to figure out the position of a chess board based on an image.
 - An app that incoporates the code from the previous bullet item into a secure website frontend environment which uses even more libaries to turn that position into useful information for the user (such as a best move or FEN notation).
+
+<img src = "https://github.com/Luca-Skyline/check4mate/blob/main/django_website%20(python%20app)/intersections.jpg?raw=true" alt="Scanned Chess Board" width="500">
 
 [Github Development Repo](https://github.com/Luca-Skyline/check4mate)
 
